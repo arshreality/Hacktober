@@ -7,4 +7,4 @@ Once the user hits submit, a pop up appears saying that an email will be sent wi
 
 Now, we realize that T-Mobile has a better interface for porting from another carrier but it redirects you to a phone number which you need to call and get things sorted. Now that's exactly what we are trying to get rid of.
 
-Users of t-mobile are people who have busy lives and busy people need things done fast. Usually when porting you need to go to the store wait for a few hours until information is processed, and its very time consuming for the clients and not as efficient as it could be. This application could be used even to collect the data of all the clients at the store and leave satisfied with a very simple and non time consuming solution.
+Users of T-Mobile are people who have busy lives and busy people need things done fast. Usually when porting you need to go to the store wait for a few hours until information is processed, and its very time consuming for the clients and not as efficient as it could be. This application could be used even to collect the data of all the clients at the store and leave satisfied with a very simple and non time consuming solution.
